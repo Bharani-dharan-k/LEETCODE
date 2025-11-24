@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0268-missing-number) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0371-sum-of-two-integers) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Sorting
 |  |
 | ------- |
