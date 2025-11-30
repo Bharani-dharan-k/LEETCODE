@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0268-missing-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0445-add-two-numbers-ii](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0445-add-two-numbers-ii) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0392-is-subsequence](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0520-detect-capital) |
 | [2938-separate-black-and-white-balls](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2938-separate-black-and-white-balls) |
