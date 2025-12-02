@@ -122,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
