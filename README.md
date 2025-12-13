@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0371-sum-of-two-integers) |
+| [0415-add-strings](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0520-detect-capital) |
 | [2938-separate-black-and-white-balls](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2938-separate-black-and-white-balls) |
@@ -238,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
