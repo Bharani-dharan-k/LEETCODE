@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0415-add-strings) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0392-is-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -308,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0133-clone-graph) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
