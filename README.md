@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0287-find-the-duplicate-number) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2248-intersection-of-multiple-arrays) |
