@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1905-count-sub-islands](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1905-count-sub-islands) |
 | [1975-maximum-matrix-sum](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1975-maximum-matrix-sum) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2248-intersection-of-multiple-arrays) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2248-intersection-of-multiple-arrays) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## String
