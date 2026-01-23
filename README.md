@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1517-find-users-with-valid-e-mails](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1527-patients-with-a-condition) |
 | [1587-bank-account-summary-ii](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1587-bank-account-summary-ii) |
+| [1667-fix-names-in-a-table](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1667-fix-names-in-a-table) |
 ## Tree
 |  |
 | ------- |
