@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1484-group-sold-products-by-the-date](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1517-find-users-with-valid-e-mails) |
+| [1527-patients-with-a-condition](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1527-patients-with-a-condition) |
 | [1587-bank-account-summary-ii](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1587-bank-account-summary-ii) |
 ## Tree
 |  |
