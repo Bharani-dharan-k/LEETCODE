@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1527-patients-with-a-condition](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1527-patients-with-a-condition) |
 | [1587-bank-account-summary-ii](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1587-bank-account-summary-ii) |
 | [1667-fix-names-in-a-table](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1667-fix-names-in-a-table) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Tree
 |  |
 | ------- |
