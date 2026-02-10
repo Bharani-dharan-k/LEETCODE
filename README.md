@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3719-longest-balanced-subarray-i](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2248-intersection-of-multiple-arrays) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
+| [3719-longest-balanced-subarray-i](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0169-majority-element) |
+| [3719-longest-balanced-subarray-i](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3719-longest-balanced-subarray-i](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -389,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0077-combinations) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
