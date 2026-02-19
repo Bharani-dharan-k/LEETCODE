@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1408-string-matching-in-an-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1408-string-matching-in-an-array) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0520-detect-capital) |
+| [1408-string-matching-in-an-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1408-string-matching-in-an-array) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1513-number-of-substrings-with-only-1s) |
 | [2938-separate-black-and-white-balls](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2938-separate-black-and-white-balls) |
 | [2942-find-words-containing-character](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2942-find-words-containing-character) |
@@ -409,4 +411,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
