@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1513-number-of-substrings-with-only-1s](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1513-number-of-substrings-with-only-1s) |
 | [2938-separate-black-and-white-balls](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2938-separate-black-and-white-balls) |
 | [2942-find-words-containing-character](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2942-find-words-containing-character) |
+| [3407-substring-matching-pattern](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3407-substring-matching-pattern) |
 ## Linked List
 |  |
 | ------- |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1408-string-matching-in-an-array) |
+| [3407-substring-matching-pattern](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3407-substring-matching-pattern) |
 ## Bitmask
 |  |
 | ------- |
