@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0687-longest-univalue-path) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0695-max-area-of-island) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1905-count-sub-islands](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1992-find-all-groups-of-farmland) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0687-longest-univalue-path) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
