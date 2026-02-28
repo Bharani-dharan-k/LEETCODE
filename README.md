@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0148-sort-list) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0049-group-anagrams) |
 | [0165-compare-version-numbers](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0242-valid-anagram) |
