@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0202-happy-number) |
