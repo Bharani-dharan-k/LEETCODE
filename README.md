@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0771-jewels-and-stones](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0805-split-array-with-same-average](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0805-split-array-with-same-average) |
 | [0929-unique-email-addresses](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0796-rotate-string) |
 | [0929-unique-email-addresses](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0929-unique-email-addresses) |
 | [1408-string-matching-in-an-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1408-string-matching-in-an-array) |
