@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1408-string-matching-in-an-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1408-string-matching-in-an-array) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2938-separate-black-and-white-balls](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2938-separate-black-and-white-balls) |
 ## Recursion
