@@ -1,10 +1,11 @@
 class Solution {
     public int getDecimalValue(ListNode head) {
-        StringBuilder sb=new StringBuilder();
-        while(head!=null){
-            sb.append(head.val);
-            head=head.next;
+        int total = 0;
+        ListNode p = head;
+        while(p != null){
+            total = (total * 2) + p.val;
+            p = p.next;
         }
-        return Integer.parseInt(sb.toString(),2);
+        return total;
     }
 }
