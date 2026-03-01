@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1672-richest-customer-wealth](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1905-count-sub-islands](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1905-count-sub-islands) |
 | [1975-maximum-matrix-sum](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1975-maximum-matrix-sum) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0695-max-area-of-island) |
+| [1672-richest-customer-wealth](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1905-count-sub-islands](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1905-count-sub-islands) |
 | [1975-maximum-matrix-sum](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [1992-find-all-groups-of-farmland](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1992-find-all-groups-of-farmland) |
