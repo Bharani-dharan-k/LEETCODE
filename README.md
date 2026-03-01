@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-watering-plants](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2079-watering-plants) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2248-intersection-of-multiple-arrays) |
+| [2418-sort-the-people](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2418-sort-the-people) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2942-find-words-containing-character](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2942-find-words-containing-character) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2248-intersection-of-multiple-arrays) |
+| [2418-sort-the-people](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2418-sort-the-people) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3719-longest-balanced-subarray-i](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2248-intersection-of-multiple-arrays) |
+| [2418-sort-the-people](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2418-sort-the-people) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## String
 |  |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1408-string-matching-in-an-array) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1513-number-of-substrings-with-only-1s) |
+| [2418-sort-the-people](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2418-sort-the-people) |
 | [2938-separate-black-and-white-balls](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2938-separate-black-and-white-balls) |
 | [2942-find-words-containing-character](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2942-find-words-containing-character) |
 | [3407-substring-matching-pattern](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3407-substring-matching-pattern) |
