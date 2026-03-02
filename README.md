@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1037-valid-boomerang](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1037-valid-boomerang) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0805-split-array-with-same-average](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0805-split-array-with-same-average) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1037-valid-boomerang](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1037-valid-boomerang) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -487,4 +489,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0278-first-bad-version) |
+## Geometry
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1037-valid-boomerang) |
 <!---LeetCode Topics End-->
