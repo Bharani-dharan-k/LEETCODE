@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0200-number-of-islands) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0287-find-the-duplicate-number) |
