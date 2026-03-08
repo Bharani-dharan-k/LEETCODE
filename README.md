@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1905-count-sub-islands](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1905-count-sub-islands) |
 | [1975-maximum-matrix-sum](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [1992-find-all-groups-of-farmland](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1992-find-all-groups-of-farmland) |
 | [2079-watering-plants](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2079-watering-plants) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1980-find-unique-binary-string](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2248-intersection-of-multiple-arrays) |
 | [2418-sort-the-people](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2418-sort-the-people) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1513-number-of-substrings-with-only-1s](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1980-find-unique-binary-string](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2418-sort-the-people](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2418-sort-the-people) |
 | [2938-separate-black-and-white-balls](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2938-separate-black-and-white-balls) |
 | [2942-find-words-containing-character](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2942-find-words-containing-character) |
@@ -497,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0077-combinations) |
+| [1980-find-unique-binary-string](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1980-find-unique-binary-string) |
 ## Segment Tree
 |  |
 | ------- |
