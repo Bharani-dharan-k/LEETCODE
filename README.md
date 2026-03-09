@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1661-average-time-of-process-per-machine) |
 | [1667-fix-names-in-a-table](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1667-fix-names-in-a-table) |
 | [1729-find-followers-count](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1729-find-followers-count) |
+| [1789-primary-department-for-each-employee](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1789-primary-department-for-each-employee) |
 | [1934-confirmation-rate](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Tree
