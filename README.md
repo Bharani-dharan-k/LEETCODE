@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2942-find-words-containing-character](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2942-find-words-containing-character) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1408-string-matching-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2185-counting-words-with-a-given-prefix) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3407-substring-matching-pattern](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3407-substring-matching-pattern) |
 ## Bitmask
@@ -542,9 +544,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
