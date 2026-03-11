@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0805-split-array-with-same-average](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0805-split-array-with-same-average) |
+| [1009-complement-of-base-10-integer](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
