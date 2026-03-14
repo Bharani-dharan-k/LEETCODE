@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1925-count-square-sum-triples](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1925-count-square-sum-triples) |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Sorting
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 ## Stack
 |  |
 | ------- |
