@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0796-rotate-string) |
 | [0929-unique-email-addresses](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0929-unique-email-addresses) |
 | [1023-camelcase-matching](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1023-camelcase-matching) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1408-string-matching-in-an-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1408-string-matching-in-an-array) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0445-add-two-numbers-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Divide and Conquer
 |  |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Bucket Sort
 |  |
