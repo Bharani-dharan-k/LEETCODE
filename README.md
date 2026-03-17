@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1672-richest-customer-wealth](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1905-count-sub-islands](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1905-count-sub-islands) |
 | [1975-maximum-matrix-sum](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1975-maximum-matrix-sum) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1975-maximum-matrix-sum](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [2938-separate-black-and-white-balls](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2938-separate-black-and-white-balls) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1023-camelcase-matching](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1023-camelcase-matching) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2938-separate-black-and-white-balls](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2938-separate-black-and-white-balls) |
 ## Recursion
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0796-rotate-string) |
 | [1023-camelcase-matching](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1023-camelcase-matching) |
 | [1408-string-matching-in-an-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1408-string-matching-in-an-array) |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3042-count-prefix-and-suffix-pairs-i) |
