@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0322-coin-change](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0392-is-subsequence) |
 | [0805-split-array-with-same-average](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0805-split-array-with-same-average) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1905-count-sub-islands](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1905-count-sub-islands) |
