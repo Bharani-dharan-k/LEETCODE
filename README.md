@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1905-count-sub-islands](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1905-count-sub-islands) |
 | [1975-maximum-matrix-sum](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1980-find-unique-binary-string) |
