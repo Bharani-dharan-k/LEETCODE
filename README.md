@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0657-robot-return-to-origin) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0200-number-of-islands) |
+| [0289-game-of-life](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0289-game-of-life) |
 | [0419-battleships-in-a-board](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0994-rotting-oranges) |
