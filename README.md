@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2248-intersection-of-multiple-arrays) |
 | [2418-sort-the-people](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2418-sort-the-people) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
 |  |
 | ------- |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [2938-separate-black-and-white-balls](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2938-separate-black-and-white-balls) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -343,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2938-separate-black-and-white-balls](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2938-separate-black-and-white-balls) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Recursion
 |  |
 | ------- |
