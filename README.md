@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0223-rectangle-area) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0371-sum-of-two-integers) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0205-isomorphic-strings) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0392-is-subsequence) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0392-is-subsequence) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 ## Stack
 |  |
@@ -602,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 ## Backtracking
 |  |
 | ------- |
