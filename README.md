@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0398-random-pick-index](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0398-random-pick-index) |
 | [0451-sort-characters-by-frequency](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0771-jewels-and-stones) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0371-sum-of-two-integers) |
+| [0398-random-pick-index](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0398-random-pick-index) |
 | [0412-fizz-buzz](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0445-add-two-numbers-ii) |
@@ -683,4 +685,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
