@@ -487,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0226-invert-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0386-lexicographical-numbers) |
 | [0419-battleships-in-a-board](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0419-battleships-in-a-board) |
 | [0543-diameter-of-binary-tree](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0687-longest-univalue-path) |
@@ -652,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0386-lexicographical-numbers) |
 | [1023-camelcase-matching](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1023-camelcase-matching) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
