@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1925-count-square-sum-triples](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1925-count-square-sum-triples) |
+| [3227-vowels-game-in-a-string](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3227-vowels-game-in-a-string) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2938-separate-black-and-white-balls](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2938-separate-black-and-white-balls) |
 | [2942-find-words-containing-character](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2942-find-words-containing-character) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3227-vowels-game-in-a-string](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3227-vowels-game-in-a-string) |
 | [3407-substring-matching-pattern](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3407-substring-matching-pattern) |
 ## Linked List
 |  |
@@ -696,4 +698,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0398-random-pick-index) |
+## Brainteaser
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3227-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
