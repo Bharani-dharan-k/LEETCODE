@@ -1,0 +1,9 @@
+class Solution {
+    public int longestString(int x, int y, int z) {
+        int first=Math.min(x,y);
+        int second=x==y ? first : first+1;
+        first<<=1;
+        second<<=1;
+        return first + second + (z<<1) ;
+    }
+}
