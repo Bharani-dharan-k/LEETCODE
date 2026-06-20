@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1925-count-square-sum-triples](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1925-count-square-sum-triples) |
+| [2745-construct-the-longest-new-string](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2745-construct-the-longest-new-string) |
 | [3227-vowels-game-in-a-string](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3227-vowels-game-in-a-string) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0392-is-subsequence) |
 | [0805-split-array-with-same-average](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0805-split-array-with-same-average) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2745-construct-the-longest-new-string](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2745-construct-the-longest-new-string) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1975-maximum-matrix-sum](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1975-maximum-matrix-sum) |
+| [2745-construct-the-longest-new-string](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2745-construct-the-longest-new-string) |
 | [2938-separate-black-and-white-balls](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2938-separate-black-and-white-balls) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -701,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [2745-construct-the-longest-new-string](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2745-construct-the-longest-new-string) |
 | [3227-vowels-game-in-a-string](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3227-vowels-game-in-a-string) |
 ## Game Theory
 |  |
