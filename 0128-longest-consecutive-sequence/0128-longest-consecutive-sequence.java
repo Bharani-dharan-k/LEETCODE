@@ -8,16 +8,15 @@ class Solution {
         {
             int val = n;
             int i=1;
-            int j=0;
-            while(set.contains(val+j))
+            while(set.contains(val))
             {
-                set.remove(val+j);
-                j++;
+                set.remove(val);
+                val++;
                 c++;
             }
-            while(set.contains(val-i))
+            while(set.contains(n-i))
             {
-                set.remove(val-i);
+                set.remove(n-i);
                 c++;
                 i++;
             }
