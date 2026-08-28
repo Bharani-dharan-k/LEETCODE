@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0189-rotate-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
@@ -724,4 +726,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0096-unique-binary-search-trees) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
