@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0796-rotate-string) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0805-split-array-with-same-average](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0805-split-array-with-same-average) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2745-construct-the-longest-new-string](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2745-construct-the-longest-new-string) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0316-remove-duplicate-letters) |
+| [0678-valid-parenthesis-string](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0445-add-two-numbers-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Divide and Conquer
@@ -754,4 +758,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
