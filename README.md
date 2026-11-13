@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0419-battleships-in-a-board](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0419-battleships-in-a-board) |
+| [0500-keyboard-row](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0704-binary-search) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0398-random-pick-index](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0398-random-pick-index) |
 | [0451-sort-characters-by-frequency](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0805-split-array-with-same-average](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0805-split-array-with-same-average) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0678-valid-parenthesis-string) |
