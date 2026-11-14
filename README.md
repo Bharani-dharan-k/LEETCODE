@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3379-transformed-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 ## Enumeration
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Queue
 |  |
 | ------- |
