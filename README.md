@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1980-find-unique-binary-string](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2418-sort-the-people](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2418-sort-the-people) |
 | [2938-separate-black-and-white-balls](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2938-separate-black-and-white-balls) |
 | [2942-find-words-containing-character](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2942-find-words-containing-character) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2079-watering-plants](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2079-watering-plants) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [3379-transformed-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3379-transformed-array) |
 ## Union Find
