@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0096-unique-binary-search-trees) |
+| [0171-excel-sheet-column-number](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0202-happy-number) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0165-compare-version-numbers) |
+| [0171-excel-sheet-column-number](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0242-valid-anagram) |
