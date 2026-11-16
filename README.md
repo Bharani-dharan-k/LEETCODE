@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2418-sort-the-people) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3719-longest-balanced-subarray-i](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2248-intersection-of-multiple-arrays) |
 | [2418-sort-the-people](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2418-sort-the-people) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
 |  |
