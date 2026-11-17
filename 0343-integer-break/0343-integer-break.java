@@ -8,6 +8,6 @@ class Solution {
             product *= 3;
             n -= 3;
         }
-        return product * n;
+        return product*n;
     }
 }
