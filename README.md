@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0223-rectangle-area) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0268-missing-number) |
+| [0343-integer-break](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0398-random-pick-index](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0398-random-pick-index) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0805-split-array-with-same-average](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0805-split-array-with-same-average) |
