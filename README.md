@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2418-sort-the-people](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2418-sort-the-people) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2938-separate-black-and-white-balls](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2938-separate-black-and-white-balls) |
 | [2942-find-words-containing-character](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2942-find-words-containing-character) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3042-count-prefix-and-suffix-pairs-i) |
