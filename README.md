@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2418-sort-the-people) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2942-find-words-containing-character](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2942-find-words-containing-character) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2248-intersection-of-multiple-arrays) |
 | [2418-sort-the-people](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2418-sort-the-people) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1975-maximum-matrix-sum](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/1975-maximum-matrix-sum) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2745-construct-the-longest-new-string](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2745-construct-the-longest-new-string) |
 | [2938-separate-black-and-white-balls](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/2938-separate-black-and-white-balls) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
