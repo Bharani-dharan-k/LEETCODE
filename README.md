@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0398-random-pick-index](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0398-random-pick-index) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0415-add-strings) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0520-detect-capital) |
@@ -731,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Queue
 |  |
