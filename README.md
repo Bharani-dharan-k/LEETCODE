@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0445-add-two-numbers-ii) |
+| [0492-construct-the-rectangle](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0507-perfect-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0805-split-array-with-same-average](https://github.com/Bharani-dharan-k/LEETCODE/tree/master/0805-split-array-with-same-average) |
